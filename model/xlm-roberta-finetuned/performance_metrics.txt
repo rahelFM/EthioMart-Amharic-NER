@@ -1,0 +1,1 @@
+MODEL_PATH = "C:\Users\Rahel\Desktop\KAIM5\Week4\EthioMart-Amharic-NER\amharic-ner-model"
